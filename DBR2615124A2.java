@@ -6,12 +6,12 @@ public class DBR2615124A2 {
    
     public static void main(String[] args) {
          //asking from user information
-       Scanner in=new Scanner(System.in);
+       Scanner input=new Scanner(System.in);
        System.out.print("Enter first station:");
-       int firststat=in.nextInt();
+       int firststat=input.nextInt();
        
        System.out.print("Enter last station:");
-       int laststat=in.nextInt();
+       int laststat=in.nextInt();put
        
        System.out.println();
        //calc and display
