@@ -1,11 +1,4 @@
-/**
- name= jumanah ahmed
- assignment name= Delivery Route Analyzer
- date=20/10/2026
-id= 2615124
-section number=36084 , DBR
-email= jalghamdi0379@stu.kau.edu.sa
-**/
+
 
 package dbr2615124a2;
 
@@ -14,7 +7,7 @@ public class DBR2615124A2 {
 
    
     public static void main(String[] args) {
-         //asking from user information
+        
        Scanner in=new Scanner(System.in);
        System.out.print("Enter first station:");
        int firststat=in.nextInt();
@@ -24,7 +17,7 @@ public class DBR2615124A2 {
        
        System.out.println();
        
-       //calc and display
+      
        if(firststat<laststat){
             System.out.println("Route Direction: Ascending");
              int routeD=laststat-firststat;
