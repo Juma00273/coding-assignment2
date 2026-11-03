@@ -1,12 +1,3 @@
-/**
- name= jumanah ahmed
- assignment name= Delivery Route Analyzer
- date=20/10/2026
-id= 2615124
-section number=36084 , DBR
-email= jalghamdi0379@stu.kau.edu.sa
-**/
-
 package dbr2615124a2;
 
 import java.util.*;
